@@ -1,1 +1,1 @@
-hi master current
+just master
